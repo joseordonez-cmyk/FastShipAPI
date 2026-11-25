@@ -217,4 +217,6 @@ Se verificaron las siguientes operaciones:
 - Eliminación de un envío mediante DELETE.
 - Verificación de los registros almacenados en MongoDB Compass.
 
-## 13. Alumno. Jose Luis Ordoñez Sanchez
+## 13. Autor
+Proyecto académico – FastShipAPI.
+Alumno: Jose Luis Ordoñez Sanchez
